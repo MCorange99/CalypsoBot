@@ -1,0 +1,47 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "botinfo",
+    "botstats",
+    "bugreport",
+    "catfact",
+    "channelinfo",
+    "coinflip",
+    "commitlint",
+    "dankmemes",
+    "discordjs",
+    "dogfact",
+    "findid",
+    "IIFE",
+    "inviteme",
+    "memberstatus",
+    "precommit",
+    "randomcolor",
+    "reportbug",
+    "roleinfo",
+    "Seagrass",
+    "servericon",
+    "serverinfo",
+    "Shiba",
+    "shibe",
+    "subreddits",
+    "supportserver",
+    "thouart",
+    "tsdoc",
+    "unvalidated",
+    "wholesomememe",
+    "wholesomememes",
+    "yesno",
+    "yomama"
+  ]
+}
